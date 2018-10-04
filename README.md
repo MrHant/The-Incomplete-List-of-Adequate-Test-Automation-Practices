@@ -1,0 +1,1 @@
+# The-Incomplete-List-of-Adequate-Test-Automation-Practices
